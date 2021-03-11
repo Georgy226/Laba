@@ -1,0 +1,44 @@
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\lab 8-10.csprojAssemblyReference.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\MainWindow.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\App.g.cs
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\lab 8-10_MarkupCompile.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\lab 8-10_MarkupCompile.lref
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\bin\Debug\lab 8-10.exe.config
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\bin\Debug\lab 8-10.exe
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\bin\Debug\lab 8-10.pdb
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\MainWindow.baml
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\lab 8-10.g.resources
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\lab_8_10.Properties.Resources.resources
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\lab 8-10.csproj.GenerateResource.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\lab 8-10.csproj.CoreCompileInputs.cache
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\lab 8-10.exe
+C:\Users\evgen\OneDrive\Рабочий стол\методы и средства программирования(Шмелев А.Н.)\lab 8-10\lab 8-10\obj\Debug\lab 8-10.pdb
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\bin\Debug\lab 8-10.exe.config
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\bin\Debug\lab 8-10.exe
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\bin\Debug\lab 8-10.pdb
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.csprojAssemblyReference.cache
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\MainWindow.g.cs
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\App.g.cs
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10_MarkupCompile.cache
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10_MarkupCompile.lref
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\MainWindow.baml
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.g.resources
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab_8_10.Properties.Resources.resources
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.csproj.GenerateResource.cache
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.exe
+C:\Users\Георгий\Desktop\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.pdb
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\bin\Debug\lab 8-10.exe.config
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.exe
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.pdb
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\bin\Debug\lab 8-10.exe
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\bin\Debug\lab 8-10.pdb
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.csprojResolveAssemblyReference.cache
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\MainWindow.g.cs
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\App.g.cs
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10_MarkupCompile.cache
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10_MarkupCompile.lref
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\MainWindow.baml
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.g.resources
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab_8_10.Properties.Resources.resources
+E:\Техн програм лаб\лабы\lab 8-10\lab 8-10\obj\Debug\lab 8-10.csproj.GenerateResource.Cache

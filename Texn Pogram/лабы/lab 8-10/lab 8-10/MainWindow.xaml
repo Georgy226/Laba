@@ -1,0 +1,65 @@
+﻿<Window x:Class="lab_8_10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab_8_10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="720" Foreground="#C71585">
+    <Grid >
+        <TextBox HorizontalAlignment="Left"  Height="23" Margin="10,94,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" Name="T1"  />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="229,94,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B1" />
+        <Label Content="Действительное число" HorizontalAlignment="Left" Margin="10,63,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left"  Height="23" Margin="10,163,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" Name="T2" />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="229,163,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B2" />
+        <Label Content="Вещественное число с 2 знаками после запятой" HorizontalAlignment="Left" Margin="10,131,0,0" VerticalAlignment="Top" Width="316" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left"  Height="23" Margin="10,230,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" Name="T3"  />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="229,230,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B3" />
+        <Label Content="Не целое число" HorizontalAlignment="Left" Margin="10,199,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left"  Height="23" Margin="10,299,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T4"/>
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="229,299,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B4" />
+        <Label Content="Комплексное число" HorizontalAlignment="Left" Margin="10,268,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left"  Height="23" Margin="10,367,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T5" />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="229,367,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B5" />
+        <Label Content="Серия и номер паспорта" HorizontalAlignment="Left" Margin="10,336,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left"  Height="23" Margin="10,436,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T6" />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="229,437,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B6" />
+        <Label Content="СНИЛС" HorizontalAlignment="Left" Margin="10,406,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,503,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T7"  />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="229,504,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B7" />
+        <Label Content="HTML-контейнер" HorizontalAlignment="Left" Margin="10,473,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,569,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T8"  />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="229,570,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B8" />
+        <Label Content="URL" HorizontalAlignment="Left" Margin="10,539,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,637,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T9" />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="229,638,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B9" />
+        <Label Content="ФИО" HorizontalAlignment="Left" Margin="10,607,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,704,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T10"   />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="229,705,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B10" />
+        <Label Content="Телефонныей номер в 11-ти значном формате"  HorizontalAlignment="Left" Margin="10,674,0,0" VerticalAlignment="Top" Width="316" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="377,93,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T11"  />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="596,94,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B11" />
+        <Label Content="Адрес электронной почты" HorizontalAlignment="Left" Margin="377,63,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="377,161,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T12"  />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="596,162,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B12" />
+        <Label Content="Адрес электронной почты в домене рф" HorizontalAlignment="Left" Margin="377,131,0,0" VerticalAlignment="Top" Width="316" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="377,229,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T13"   />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="596,229,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B13" />
+        <Label Content="Действительная календарная дата" HorizontalAlignment="Left" Margin="377,199,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="377,297,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T14"   />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="596,297,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B14" />
+        <Label Content="Время суток" HorizontalAlignment="Left" Margin="377,267,0,0" VerticalAlignment="Top" Width="214" FontSize="13"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="377,366,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="214" x:Name="T15"  />
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="596,366,0,0" VerticalAlignment="Top" Width="97" Height="23" Click="B15" />
+        <Label Content="Целое число (разряды могут разделяться пробелами)" HorizontalAlignment="Left" Margin="377,336,-0.4,0" VerticalAlignment="Top" Width="337" FontSize="13"/>
+        <Label Content="Валидация данных" HorizontalAlignment="Left" Margin="255,10,0,0" VerticalAlignment="Top" FontSize="22" FontFamily="Times New Roman" FontWeight="Bold" FontStyle="Italic"/>
+        <Label Content="Введите текст" HorizontalAlignment="Left" Margin="377,408,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left"  Height="112" Margin="377,437,0,0" TextWrapping="Wrap" Text=""  Name="T16" VerticalAlignment="Top" Width="316"/>
+        <Button Content="Исправить" HorizontalAlignment="Left" Margin="596,554,0,0" VerticalAlignment="Top" Click="B16" Width="97" Height="23"/>
+        <Label Content="Исправленный текст" HorizontalAlignment="Left" Margin="377,576,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="119" Margin="377,609,0,0" Text="" IsReadOnly="True" Name="T17" VerticalAlignment="Top" Width="316"/>
+        <Button Content="Очистить всё" HorizontalAlignment="Left" Margin="606,10,0,0" VerticalAlignment="Top" Click="Clear" Width="98" Height="23"/>
+        <Button Content="Выйти" HorizontalAlignment="Left" Margin="607,737,0,0" VerticalAlignment="Top" Click="Clouse" Width="97" Height="23"/>
+
+    </Grid>
+</Window>
